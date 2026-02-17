@@ -1,15 +1,23 @@
 # 👨‍💻 George Siqueira Júnior
 
 🎓 Estudante de Ciência da Computação – 1º semestre  
+🎓 Técnico em Informática pelo Instituto Federal da Bahia  
 📍 Brasil  
 
 ---
 
 ## 🧠 Sobre
 
-Graduando em Ciência da Computação, com foco na construção de uma base sólida em lógica de programação, algoritmos e fundamentos da computação.
+Graduando em Ciência da Computação, com formação técnica em Informática pelo Instituto Federal da Bahia (IFBA).
 
-Atualmente em processo de aprofundamento na linguagem C, desenvolvendo raciocínio lógico e compreensão estruturada de sistemas computacionais.
+Possuo base sólida em lógica de programação, algoritmos e fundamentos da computação. Atualmente em processo de aprofundamento na linguagem C, desenvolvendo raciocínio lógico estruturado e compreensão de sistemas computacionais.
+
+---
+
+## 🎓 Formação Acadêmica
+
+- 🎓 Bacharelado em Ciência da Computação (em andamento)
+- 🎓 Técnico em Informática – Instituto Federal da Bahia (IFBA)
 
 ---
 
@@ -31,13 +39,13 @@ Atualmente em processo de aprofundamento na linguagem C, desenvolvendo raciocín
 
 ## 🎯 Objetivo Acadêmico e Profissional
 
-Desenvolver formação técnica consistente em Engenharia de Software, Estruturas de Dados e Desenvolvimento Full Stack, aliando teoria e prática para atuação profissional qualificada na área de tecnologia.
+Consolidar formação técnica em Engenharia de Software e Estruturas de Dados, aliando fundamentação teórica e prática para atuação profissional qualificada na área de tecnologia.
 
 ---
 
 ## 📬 Contato
 
-📧 Email: georgesequeiro19@gmail.com  
+📧 Email: georgesequeiro19@gmail.com
 🔗 LinkedIn: https://linkedin.com/in/seuusuario  
 🐙 GitHub: https://github.com/seuusuario  
 
