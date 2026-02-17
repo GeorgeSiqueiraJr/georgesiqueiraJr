@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação – 1º semestre  
 🎓 Técnico em Informática pelo Instituto Federal da Bahia  
-📍 Brasil  
+📍 Paulo Afonso, BA - Brasil  
 
 ---
 
